@@ -1,3 +1,5 @@
+# En savoir + sur la marque-blanche "actes"
+
 ## La genèse du projet
 
 Cette "marque-blanche" dénommée ainsi car aucun logo n'est présent, permet à toute collectivité utilisant la chaine de publication des actes de Mégalis (lien : <https://www.megalis.bretagne.bzh/>), d'intégrer très facilement l'interface dans son site internet, pour une plus grande transparence auprès de ces citoyens qui bénéficie ainsi automatiquement de la mise à disposition des actes de la collectivité. 
@@ -16,12 +18,8 @@ La marque blanche de publication des actes : <https://services.megalis.bretagne.
 
 La maîtrise d'ouvrage du projet est assurée par [Mégalis Bretagne](https://www.megalis.bretagne.bzh/)
 La présentation du projet est disponible ici : [https://opendata-megalis.readthedocs.io/fr/latest/presentation.html](https://opendata-megalis.readthedocs.io/fr/latest/presentation.html)
-
 Les développement ont été réalisés par le SIB ([https://sib.fr/](https://sib.fr/)) et l'ensemble des codes sources sur Github : [https://github.com/megalis-bretagne/opendata-frontapp](https://github.com/megalis-bretagne/opendata-frontapp).
-
 Le projet a bénéficié d'un financement de France Relance :
-
-*Logo megalis via un lien*
 
 ![Logo megalis](https://raw.githubusercontent.com/megalis-bretagne/pages-publiques/main/megalis-logo-web.png)
 ![][logo-france-relance]
