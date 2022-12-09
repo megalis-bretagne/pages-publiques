@@ -16,8 +16,8 @@ Le tutoriel sur la [marque blanche de publication des actes](https://services.me
 
 ## Ressources et crédits
 
-La maîtrise d'ouvrage du projet est assurée par [Mégalis Bretagne](https://www.megalis.bretagne.bzh/)
-La présentation du projet est disponible ici : [https://opendata-megalis.readthedocs.io/fr/latest/presentation.html](https://opendata-megalis.readthedocs.io/fr/latest/presentation.html)
+La maîtrise d'ouvrage du projet est assurée par [Mégalis Bretagne](https://www.megalis.bretagne.bzh/). 
+La présentation du projet est disponible [ici](https://opendata-megalis.readthedocs.io/fr/latest/presentation.html).
 Les développement ont été réalisés par le [SIB](https://sib.fr/) et l'ensemble des codes sources sur [Github](https://github.com/megalis-bretagne/opendata-frontapp).
 Le projet a bénéficié d'un financement de France Relance :
 
