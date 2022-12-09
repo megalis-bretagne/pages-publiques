@@ -1,5 +1,3 @@
-# Modif 1
-
 ## La genèse du projet
 
 Cette "marque-blanche" dénommée ainsi car aucun logo n'est présent, permet à toute collectivité utilisant la chaine de publication des actes de Mégalis (lien : <https://www.megalis.bretagne.bzh/>), d'intégrer très facilement l'interface dans son site internet, pour une plus grande transparence auprès de ces citoyens qui bénéficie ainsi automatiquement de la mise à disposition des actes de la collectivité. 
