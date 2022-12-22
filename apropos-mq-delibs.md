@@ -14,6 +14,7 @@ La version actuelle permet donc la publication de tous les actes soumis au contr
 
 L'interface se compose des éléments suivants :
 ![mini-tuto-mq](https://raw.githubusercontent.com/megalis-bretagne/pages-publiques/main/refonte-marque-blanche-tuto.png)
+
 Et retrouvez, le tutoriel complet sur la [marque blanche de publication des actes](https://services.megalis.bretagne.bzh/tutoriel/od-publication-la-marque-blanche-de-publication-des-actes).
 
 ## Ressources et crédits
